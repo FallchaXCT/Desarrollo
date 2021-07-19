@@ -9,3 +9,14 @@ C:\Users\HP\Desktop\2021 I\desarollo de software\Tarea1\Tarea1\obj\Debug\Tarea1.
 C:\Users\HP\Desktop\2021 I\desarollo de software\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\2021 I\desarollo de software\Tarea1\Tarea1\obj\Debug\Tarea1.exe
 C:\Users\HP\Desktop\2021 I\desarollo de software\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.csprojAssemblyReference.cache
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.Tutores.resources
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.Properties.Resources.resources
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.Tutor_detalles.resources
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.GenerateResource.cache
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+E:\GITHUB REPOSITORIOS\Desarrollo\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
